@@ -3,15 +3,15 @@ language.name=Wenctaly
 language.region=Zehr ctaat aaw Wenct
 language.code=we_rw
 
-gui.done=Done
-gui.cancel=Cancel
-gui.back=Back
+gui.done=Gjœre
+gui.cancel=Perruukkaa
+gui.back=Tyllkk
 gui.toTitle=Back to title screen
 gui.toMenu=Back to server list
-gui.up=Up
-gui.down=Down
-gui.yes=Yes
-gui.no=No
+gui.up=Opa
+gui.down=Alarr
+gui.yes=Ja
+gui.no=Na
 gui.none=None
 gui.all=All
 
