@@ -15,9 +15,9 @@ gui.no=Na
 gui.none=Kænin
 gui.all=Allek
 
-gui.recipebook.moreRecipes=Right Click for more
-gui.recipebook.toggleRecipes.all=Showing all
-gui.recipebook.toggleRecipes.craftable=Showing craftable
+gui.recipebook.moreRecipes=Huug klykke vuur uutœ rizipty
+gui.recipebook.toggleRecipes.all=Wy'tta allek
+gui.recipebook.toggleRecipes.craftable=Wy'tta luuopaycuu
 
 translation.test.none=Hello, world!
 translation.test.complex=Prefix, %s%2$s again %s and %1$s lastly %s and also %1$s again!
