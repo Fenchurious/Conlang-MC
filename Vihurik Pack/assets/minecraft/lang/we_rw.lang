@@ -78,8 +78,8 @@ selectWorld.tooltip.fromNewerVersion2=Raadaa tama wardœ konde œcaakkaa problem
 selectWorld.tooltip.snapshot1=Teina glœmcen tuu goxdaakoppyja tama wardœ
 selectWorld.tooltip.snapshot2=Fœrin ty laade et yn tama cnaapchott.
 
-selectWorld.unable_to_load=Unable to load worlds
-selectWorld.load_folder_access=Unable to read or access folder where game worlds are saved!
+selectWorld.unable_to_load=Kuunfinna tuu laade uutœ wardœ
+selectWorld.load_folder_access=Kuunfinna tuu lica aarre pazgang œrcyœ wocaar uutœ peily wardœ ær raadaa!
 
 createWorld.customize.presets=Presets
 createWorld.customize.presets.title=Select a Preset
