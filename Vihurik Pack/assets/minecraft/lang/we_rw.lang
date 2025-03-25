@@ -170,12 +170,12 @@ createWorld.customize.custom.preset.drought=Drought
 createWorld.customize.custom.preset.caveChaos=Caves of Chaos
 createWorld.customize.custom.preset.goodLuck=Good Luck
 
-gameMode.survival=Survival Mode
-gameMode.creative=Creative Mode
-gameMode.adventure=Adventure Mode
-gameMode.spectator=Spectator Mode
-gameMode.hardcore=Hardcore Mode!
-gameMode.changed=Your game mode has been updated to %s
+gameMode.survival=Œbelbo Laage
+gameMode.creative=Luuopa Laage
+gameMode.adventure=Abentuurra Laage
+gameMode.spectator=Katcly'ttey Laage
+gameMode.hardcore=Haardekœre Laage!
+gameMode.changed=Ty'n peiny laage waarllaa opdaatir tuu %s
 
 spectatorMenu.previous_page=Previous Page
 spectatorMenu.next_page=Next Page
