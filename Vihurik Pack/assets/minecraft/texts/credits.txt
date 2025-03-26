@@ -1,17 +1,17 @@
 [C]§f============
-[C]§eMinecraft Team
+[C]§eMaynkrafte Ty'ma
 [C]§f============
  
-§7Original Creator
+§7Hirkunftein Luuopay
 §f          Markus Persson
  
-§7Lead Creative Designer
+§7Letaa Luuopaycuu Entwirfy
 §f          Jens Bergensten
  
-§7Production Director
+§7Tuuoketon Ry'kataay
 §f          Daniel Kaplan
  
-§7Game Developers
+§7Peiny Uutœ Kehy'ky
 §f          Agnes Larsson
 §f          Alexander Östman
 §f          Aron Nieminen
@@ -33,7 +33,7 @@
 §f          Tomas Alaeus
 §f          Tommaso Checchi
  
-§7Realms Developers
+§7Uutœ Ry'k Kehy'ky
 §f          Alexandre Pretto Nunes
 §f          Amir Moulavi
 §f          Christian Westman
@@ -94,7 +94,7 @@
 §f          Dan Roque
 
 [C]§f========
-[C]§eMojang
+[C]§eMœzhang
 [C]§f========
 
 §7Chief Executive Officer
@@ -210,7 +210,7 @@
 §f          Olle Personne
  
 [C]§f===========
-[C]§eMojang Alumni
+[C]§eMœzhang Aluumny
 [C]§f===========
  
 §7Chief Executive Officers
@@ -255,7 +255,7 @@
 §f          Linn Hultman
 
 [C]§f============
-[C]§eSpecial Thanks
+[C]§eUutœ Carcondirz Tyrz
 [C]§f============
 
 §f          Daniel Brynolf
