@@ -348,21 +348,21 @@ disconnect.endOfStream=Loppuu aaw ctromma
 disconnect.overflow=Puffra uublauu
 disconnect.spam=Borffen vuur cpamme
 
-soundCategory.master=Master Volume
-soundCategory.music=Music
-soundCategory.record=Jukebox/Note Blocks
+soundCategory.master=Allek voluum
+soundCategory.music=Muuzyk
+soundCategory.record=Juukebœx/Uutœ nœtyz blokœ
 soundCategory.weather=Weather
-soundCategory.hostile=Hostile Creatures
-soundCategory.neutral=Friendly Creatures
-soundCategory.player=Players
-soundCategory.block=Blocks
+soundCategory.hostile=Uutœ Hostile kry'tchuur
+soundCategory.neutral=Uutœ Friendly kry'tchuur
+soundCategory.player=Uutœ cpilaaty
+soundCategory.block=Uutœ blokœ
 soundCategory.ambient=Ambient/Environment
 soundCategory.voice=Voice/Speech
 
 record.nowPlaying=Now playing: %s
 
-options.off=OFF
-options.on=ON
+options.off=AAF
+options.on=AAN
 options.visible=Shown
 options.hidden=Hidden
 options.title=Options
