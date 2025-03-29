@@ -1,8 +1,8 @@
-{ "pack" : { "pack_format" : 3, "description" : "Vihuric Language Pack" },
+{ "pack" : { "pack_format" : 3, "description" : "Venstali Language Pack" },
 "language":{
-    "vh_to":{
-        "name":"Vihürik",
-        "region":"Tørestaad",
+    "we_rw":{
+        "name":"Venstali",
+        "region":"Zehr ctaat aaw Wenct",
         "bidirectional":false
         }
     }
