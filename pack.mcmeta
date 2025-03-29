@@ -1,7 +1,7 @@
 { "pack" : { "pack_format" : 3, "description" : "Venstali Language Pack" },
 "language":{
     "we_rw":{
-        "name":"Venstali",
+        "name":"Wenctaly",
         "region":"Zehr ctaat aaw Wenct",
         "bidirectional":false
         }
