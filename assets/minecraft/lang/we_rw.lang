@@ -1745,7 +1745,7 @@ stat.useItem=%1$s Used
 stat.breakItem=%1$s Depleted
 
 recipe.toast.title=Nuucy rizipty œvappaycuu!
-recipe.toast.description=Taarkfen tyn rizipty ky'rk
+recipe.toast.description=Taarkfen tyn riziptyin ky'rk
 
 commands.generic.exception=An unknown error occurred while attempting to perform this command
 commands.generic.permission=You do not have permission to use this command
@@ -3319,22 +3319,22 @@ debug.pause_focus.off=Pause on lost focus: disabled
 debug.help.message=Key bindings:
 debug.reload_resourcepacks.message=Reloaded resource packs
 
-resourcepack.downloading=Downloading Resource Pack
-resourcepack.requesting=Making Request...
-resourcepack.progress=Downloading file (%s MB)...
+resourcepack.downloading=Laaddaante rizuurc-paakk
+resourcepack.requesting=Goxdaa aanfrataa...
+resourcepack.progress=Laaddaante fy'l (%s MB)...
 
 tutorial.move.title=Ly'kkuum wyf %s, %s, %s et %s
 tutorial.move.description=Guucyja wyf %s
 tutorial.look.title=Nauutaa nom
 tutorial.look.description=Verwenttaa tyn mauuz tuu kvaang
-tutorial.find_tree.title=Ctembol e truum
+tutorial.find_tree.title=Fy'tta e truum
 tutorial.find_tree.description=Ctembol et tuu caamlaa holzuu
-tutorial.punch_tree.title=Destroy zehr truum
-tutorial.punch_tree.description=Hold down %s
-tutorial.open_inventory.title=Open tyn inventory
-tutorial.open_inventory.description=Press %s
-tutorial.craft_planks.title=Craft wooden planks
-tutorial.craft_planks.description=Zehr recipe book kuunfin help
+tutorial.punch_tree.title=Decyt zehr truum
+tutorial.punch_tree.description=Hallkka %s
+tutorial.open_inventory.title=Ovaffaa tyn laagerre
+tutorial.open_inventory.description=Druukka %s
+tutorial.craft_planks.title=Luuopa uutœ holzuuin plaanke
+tutorial.craft_planks.description=Zehr riziptyin ky'rk kuunfin helffa
 
 advancements.adventure.adventuring_time.title=Abentuurrain tyka
 advancements.adventure.adventuring_time.description=Luutaakaa allek uutœ bjommy
