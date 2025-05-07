@@ -3323,18 +3323,18 @@ resourcepack.downloading=Downloading Resource Pack
 resourcepack.requesting=Making Request...
 resourcepack.progress=Downloading file (%s MB)...
 
-tutorial.move.title=Move with %s, %s, %s and %s
-tutorial.move.description=Jump with %s
-tutorial.look.title=Look around
-tutorial.look.description=Use your mouse to turn
-tutorial.find_tree.title=Find a tree
-tutorial.find_tree.description=Punch it to collect wood
-tutorial.punch_tree.title=Destroy the tree
+tutorial.move.title=Ly'kkuum wyf %s, %s, %s et %s
+tutorial.move.description=Guucyja wyf %s
+tutorial.look.title=Nauutaa nom
+tutorial.look.description=Verwenttaa tyn mauuz tuu kvaang
+tutorial.find_tree.title=Ctembol e truum
+tutorial.find_tree.description=Ctembol et tuu caamlaa holzuu
+tutorial.punch_tree.title=Destroy zehr truum
 tutorial.punch_tree.description=Hold down %s
-tutorial.open_inventory.title=Open your inventory
+tutorial.open_inventory.title=Open tyn inventory
 tutorial.open_inventory.description=Press %s
 tutorial.craft_planks.title=Craft wooden planks
-tutorial.craft_planks.description=The recipe book can help
+tutorial.craft_planks.description=Zehr recipe book kuunfin help
 
 advancements.adventure.adventuring_time.title=Abentuurrain tyka
 advancements.adventure.adventuring_time.description=Luutaakaa allek uutœ bjommy
