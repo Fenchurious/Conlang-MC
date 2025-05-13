@@ -54,41 +54,41 @@
 §f          Aleksandra Zajac
 §f          Warren Loo
  
-§7Realms Content Lead
+§7Uutœ Ry'k Ynhall Letaay
 §f          Marc Watson
  
-§7Realms Content Coordinator
+§7Uutœ Ry'k Ynhall Dricin Letaay
 §f          Matthew Dryden
  
-§7Art Director
+§7Kuunz Ry'kataay
 §f          Markus Toivonen
  
-§7Graphics Artists
+§7Uutœ Graafyck Kuunzir
 §f          Johan Aronson
 §f          Kristoffer Zetterstrand
  
-§7Additional Graphics
+§7Ly'zaatce Graafyck
 §f          Jonatan Pöljö
 §f          Mariana Graham Ramirez
 §f          Martin Johansson
 §f          Ninni Landin
  
-§7User Experience Design
+§7Verwentaay Uupæ Entwirfy
 §f          Tobias Ahlin
  
-§7Lead Sound Designer
+§7Letaa Klaany Entwirfy
 §f          Samuel Åberg
  
-§7Sound Design
+§7Klaany Entwirfy
 §f          Daniel Rosenfeld
  
-§7Music composed by
+§7Muuzyk kompontaa aavo
 §f          Daniel Rosenfeld
  
-§7Writing
+§7Ky'rvaay
 §f          Julian Gough
  
-§7Developers of Mo’ Creatures
+§7Uutœ Kehy'ky aaw Mo’ Kry'tchuur
 §f          John Olarte (DrZhark)
 §f          Kent Christian Jensen
 §f          Dan Roque
@@ -97,34 +97,34 @@
 [C]§eMœzhang
 [C]§f========
 
-§7Chief Executive Officer
+§7Pallko Johta Uupzer
 §f          Jonas Mårtensson
  
-§7Chief Operations Officer
+§7Pallko Betrra Uupzer
 §f          Vu Bui
  
-§7Chief Finance Officer
+§7Pallko Faynanz Uupzer
 §f          Karin Severinson
  
-§7Brand Director
+§7Merke Ry'kataay
 §f          Lydia Winters
  
-§7Chief Technology Officer
+§7Pallko Teknykkology Uupzer
 §f          Rikard Herlitz
  
-§7Lead Systems Developer
+§7Letaa Cycttema Ry'kataay
 §f          Kristoffer Jelbring
  
-§7System Developers
+§7Uutœ Cycttema Ry'kataay
 §f          Pär Axelsson
 §f          Robert Sjödahl
 §f          Stefan Torstensson
 §f          Tomas Sommar
  
-§7Customer Support Team Lead
+§7Kuundkac Ctokjay Ty'ma Letaay
 §f          Mattias Victorin
  
-§7Customer Support
+§7Kuundkac Ctokjay
 §f          Adam Martinsson
 §f          Amelia Lindroth Henriksson
 §f          Angehlica Walling
@@ -141,70 +141,70 @@
 §f          Rui Ribeiro
 §f          Sarah Mårtensson
  
-§7Director of Business Development
+§7Ry'kataay aaw Vuurtag Kehy'kycuu
 §f          Patrick Geuder
  
-§7Business Intelligence
+§7Vuurtag Gehemdenct
 §f          Brynjólfur Erlingsson
  
-§7Production Director
+§7Tuuozaycuu Ry'kataay
 §f          Olof Carlsson
  
-§7Producers
+§7Uutœ Tuuozay
 §f          Hampus Nilsson
  
-§7Project Director
+§7Projekt Ry'kataay
 §f          Ulrika Höjgård
  
-§7Project Managers
+§7Uutœ Projekt Halltyrray
 §f          Henrik Pettersson
 §f          Isabella Balk
 §f          Lisa Kempe
 §f          Nicolette Suraga
  
-§7Director of Creative Communications
+§7Ry'kataay aaw Uutœ Luuopaycuu Kommjuuny'kæterraycuu
 §f          Owen Jones
  
-§7Creative Communications Manager
+§7Uutœ Luuopaycuu Kommjuuny'kæterraycuu Halltyrray
 §f          Martin Davies
  
-§7Creative Communications Assistant
+§7Uutœ Luuopaycuu Kommjuuny'kæterraycuu Auufeny
 §f          Tom Stone
  
-§7Head of Community Relations
+§7Hauup aaw Uutœ Kommjuunne Kertoycuu
 §f          Karim Walldén
  
-§7Head of Social Media
+§7Hauup aaw Camhain My'dja
 §f          Amelia Dale
  
-§7Office Managers
+§7Uutœ Buurrœ Halltyrray
 §f          David Stuart Dahlgren
 §f          Mikaela Prim
 §f          Siri Hoel Andersson
  
-§7Finance Manager
+§7Faynanz Halltyrray
 §f          Marina Kostesic
  
-§7Finance Accountants
+§7Uutœ Faynanz Tylxy
 §f          Josefina Axelsson
  
-§7Graphics Artists
+§7Uutœ Graafyck Kuunzir
 §f          Mattis Grahm
  
-§73D/vfx Generalist
+§73-D/CIK Ekcperty
 §f          Christian Nordgren
  
-§7Level Designers
+§7Uutœ Nene Entwirfy
 §f          Max Herngren
  
-§7Product Designers
+§7Uutœ Tuuoke Entwirfy
 §f          Amanda Ström
 §f          Filip Thoms
  
-§7Intellectual Property Enforcement Team Lead
+§7Gehemdenctin Omaituum Irzva Ty'ma Letaay
 §f          Mathias Andersson
  
-§7Intellectual Property Enforcement Agents
+§7Uutœ Gehemdenctin Omaituum Irzva Aagent
 §f          Josefin Olsson
 §f          Matilda Åkerman
 §f          Olle Personne
@@ -213,22 +213,22 @@
 [C]§eMœzhang Aluumny
 [C]§f===========
  
-§7Chief Executive Officers
+§7Pallko Johta Uupzer
 §f          Carl Manneh
  
-§7Project Directors
+§7Projekt Ry'kataay
 §f          Jakob Porsér
  
-§7Game Developers
+§7Peiny Kehy'ky
 §f          Tobias Möllstam
  
-§7System Developers
+§7Cycttema Kehy'ky
 §f          Martin Odhelius
  
-§7Graphics Artists
+§7Graafyck Kuunzir
 §f          Poi Poi Chen
  
-§7Customer Support
+§7Kuundkac Ctokjay
 §f          Andreas Andersson
 §f          Andreas Jörgensen
 §f          Annika Tripke-Lund
@@ -249,7 +249,7 @@
 §f          Robin Cocks
 §f          Robin Thunström
  
-§7Office Managers
+§7Uutœ Buurrœ Halltyrray
 §f          Charlotte Wredesjö
 §f          Jill Curran
 §f          Linn Hultman
